@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=F0F0F0&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!">
-  <source media="(prefers-color-scheme: light)" srcset="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=10335A&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!">
-  <img alt="Theme sensitive banner" src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=10335A&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!" width="80%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=F0F0F0&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=10335A&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!">
+  <img alt="Theme sensitive banner" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=10335A&center=true&vCenter=true&random=false&width=700&height=150&lines=Hello%2C+my+name+is+Fr%C3%A9d%C3%A9ric+LIN;Check+out+my+code!" width="80%">
   </picture>
 </div>
 
